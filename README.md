@@ -1,7 +1,6 @@
-![Project Screenshot](https://raw.githubusercontent.com/fathergasc/react-card/master/react-airbnb.png)
-
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fathergasc/react-airbnb/master/react-airbnb.png" width="600px"/>
+</div>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
