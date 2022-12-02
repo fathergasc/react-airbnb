@@ -13,6 +13,7 @@ function App() {
       <Card
         key={card.id}
         card={card}
+        //{...card}   with spread it compiles all the key and values, so I would need to remove the .item from the card component
       />
     )
   })
