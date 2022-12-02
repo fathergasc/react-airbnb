@@ -36,9 +36,20 @@ section {
 
 /* CARD */
 
+
+.cards-list {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  overflow-y: auto;
+}
+
 .card {
   width: 180px;
   font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
 }
 
 .card-img {
