@@ -81,6 +81,10 @@ section {
   padding-top: 0.7rem;
 }
 
+.pl-1 {
+  padding-left: 0.2rem;
+}
+
 .availability {
   position: absolute;
   top: 6px;
